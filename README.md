@@ -1,0 +1,5 @@
+- Προετοιμασία δεδομένων στο Power BI Desktop
+- Φόρτωση δεδομένων σε Power BI Desktop
+- Δεδομένα μοντέλου σε Power BI Desktop
+- Δημιουργία υπολογισμών DAX σε Power BI Desktop
+- Δημιουργία σύνθετων υπολογισμών DAX στο Power BI Desktop
